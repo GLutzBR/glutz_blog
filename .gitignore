@@ -105,3 +105,4 @@ venv.bak/
 
 #my app defaults
 settings.py
+migrations/
